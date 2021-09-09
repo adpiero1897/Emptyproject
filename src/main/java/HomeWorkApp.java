@@ -29,7 +29,7 @@ public class HomeWorkApp {
 
     public static void printColor()
     {
-        int value = 69;
+        int value = 6;
 
         if(value <=0)
         {
