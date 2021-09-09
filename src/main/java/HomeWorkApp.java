@@ -53,12 +53,12 @@ public class HomeWorkApp {
         if(a >= b)
         {
             System.out.println("a>=b");
-            System.out.println(a+">="+b);
+            System.out.println(a+">="+b); // Добавляю ко всему вывод значений переменных, участвующих в сравнении
         }
         else
         {
             System.out.println("a<b");
-            System.out.println(a+"<"+b);
+            System.out.println(a+"<"+b); // Добавляю ко всему вывод значений переменных, участвующих в сравнении
         }
     }
 }
