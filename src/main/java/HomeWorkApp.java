@@ -29,7 +29,7 @@ public class HomeWorkApp {
 
     public static void printColor()
     {
-        int value = 69;
+        int value = 68;
 
         if(value <=0)
         {
@@ -53,12 +53,12 @@ public class HomeWorkApp {
         if(a >= b)
         {
             System.out.println("a>=b");
-            System.out.println(a+">="+b);
+            System.out.println(a+">="+b); // Добавляю ко всему вывод значений переменных, участвующих в сравнении
         }
         else
         {
             System.out.println("a<b");
-            System.out.println(a+"<"+b);
+            System.out.println(a+"<"+b); // Добавляю ко всему вывод значений переменных, участвующих в сравнении
         }
     }
 }
